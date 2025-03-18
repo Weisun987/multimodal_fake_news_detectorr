@@ -1,0 +1,5 @@
+text,label,video_title,video_description,thumbnail_url
+"COVID-19 vaccine microchip claim is false",fake,"COVID-19 Vaccine Facts","Here is what the vaccine contains...","https://img.youtube.com/vi/sample1/hqdefault.jpg"
+"US economy shows signs of recovery",real,"US Economy 2024 Explained","Stock market surges, economy rebounds","https://img.youtube.com/vi/sample2/hqdefault.jpg"
+"NASA confirms asteroid will miss Earth",real,"NASA Official News","No threat to Earth as per NASA","https://img.youtube.com/vi/sample3/hqdefault.jpg"
+"Aliens attacked a US city last night",fake,"Alien Attack Fake News","Video claims an alien attack","https://img.youtube.com/vi/sample4/hqdefault.jpg"
