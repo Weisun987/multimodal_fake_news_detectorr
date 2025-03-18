@@ -1,0 +1,2 @@
+# multimodal_fake_news_detectorr
+multimodal_fake_news_detector
